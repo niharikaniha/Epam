@@ -5,8 +5,8 @@ public class Main {
 
 		StudentGroup sg=new StudentGroup(10);
 
-	Date date=new Date(1997,6,29);
-	Student s=new Student(559,"niha",date,63.0);
+	Date date=new Date(1997,2,10);
+	Student s=new Student(559,"niha",date,70.90);
 
                 sg.addFirst(s);
 
